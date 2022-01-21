@@ -17,3 +17,5 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+![Day Scheduler](https://user-images.githubusercontent.com/93783055/150609813-237c0816-8616-467f-9a47-6e3c51d1aa76.png)
