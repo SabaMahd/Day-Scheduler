@@ -8,8 +8,8 @@ textarea{
   background: transparent;
   border: none;
   resize: none;
-  color: #000000;
-  border-left: 1px solid black;
+  color: #4a1e91;
+  border-left: 1px solid rgb(121, 34, 34);
   padding: 10px;
 }
 
@@ -48,13 +48,13 @@ textarea{
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #642020;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
-  color: white;
+  background-color: #401ce2;
+  color: rgb(19, 1, 1);
 }
 
 .saveBtn {
